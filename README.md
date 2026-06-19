@@ -50,4 +50,4 @@ Sync Gradle
 Run on a device/emulator (minSdk 24)
 
 
-A release APK is included in [app/build/outputs/apk/release].
+A release APK is available in the [Releases section](https://github.com/sathishkumar1392/tandem/releases).
