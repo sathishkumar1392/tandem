@@ -24,7 +24,6 @@ import androidx.paging.LoadState
 import androidx.paging.compose.collectAsLazyPagingItems
 import androidx.paging.compose.itemKey
 import com.sathish.tandem.domain.model.CommunityMember
-import com.sathish.tandem.feature.CommunityViewModel
 import com.sathish.tandem.feature.community.components.MemberCard
 import org.koin.androidx.compose.koinViewModel
 

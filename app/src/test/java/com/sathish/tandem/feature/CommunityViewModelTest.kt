@@ -5,6 +5,7 @@ import app.cash.turbine.test
 import com.sathish.tandem.domain.usecase.GetCommunityUseCase
 import com.sathish.tandem.domain.usecase.GetLikedIdsUseCase
 import com.sathish.tandem.domain.usecase.ToggleLikeUseCase
+import com.sathish.tandem.feature.community.CommunityViewModel
 import io.mockk.Runs
 import io.mockk.coEvery
 import io.mockk.coVerify

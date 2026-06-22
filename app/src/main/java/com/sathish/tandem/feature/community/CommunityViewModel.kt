@@ -1,4 +1,4 @@
-package com.sathish.tandem.feature
+package com.sathish.tandem.feature.community
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
